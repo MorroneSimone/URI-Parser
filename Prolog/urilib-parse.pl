@@ -1,7 +1,6 @@
 % -*- mode: prolog; -*-
 
 % Nome: Simone Morrone  Matricola: 916063
-% Nome: Giada bodini  Matricola: 914545
 
 % urilib-parse.pl
 
