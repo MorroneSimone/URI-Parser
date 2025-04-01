@@ -1,5 +1,3 @@
-;;;; Simone Morrone 916063
-;;;; Giada Bodini 914545
 
 ;;;; -*- Mode: Lisp -*-
 ;;;; uri-parse.lisp
