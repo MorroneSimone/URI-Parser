@@ -1,6 +1,5 @@
 % -*- mode: prolog; -*-
 
-% Nome: Simone Morrone  Matricola: 916063
 
 % urilib-parse.pl
 
